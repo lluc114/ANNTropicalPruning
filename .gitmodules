@@ -1,0 +1,6 @@
+[submodule "PANN-on-device-Optimitzation"]
+	path = PANN-on-device-Optimitzation
+	url = https://github.com/lluc114/PANN-on-device-Optimitzation.git
+[submodule "Maxine"]
+	path = Maxine
+	url = https://github.com/lluc114/Maxine.git
